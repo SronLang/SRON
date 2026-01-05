@@ -11,6 +11,11 @@
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red?style=flat-square)](LICENSE-PROPRIETARY.txt)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey?style=flat-square)]()
 
+[![Language: SRON](https://img.shields.io/badge/Language-SRON-00B4D8?style=flat-square)](https://github.com/saksham-joshi/SRON)
+[![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=flat-square&logo=cplusplus)](https://github.com/saksham-joshi/SRON)
+[![Language: C](https://img.shields.io/badge/Language-C-A8B9CC?style=flat-square&logo=c)](https://github.com/saksham-joshi/SRON)
+
+
 [📘 Documentation](https://sron.gitbook.io/docs) • [🌐 Official Website](https://sronlang.github.io/) • [📖 Learn More](#-what-is-sron)
 
 <img src="./Pictures/SRON_rect_corner-rounded.png" alt="SRON Logo" width="400" style="border-radius:18px; margin: 20px 0;">
